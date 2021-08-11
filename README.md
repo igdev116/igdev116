@@ -81,8 +81,8 @@
 **Tools 🌊**
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="29" height="29"/>&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/>
 </p>
 <br />
 
