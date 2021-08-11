@@ -6,7 +6,7 @@
 
 - 🍔 I’m currently live in Vietnam
 
-- 🍩 I’m currently learning React Js, Redux
+- 🍩 React Js? Yeah!!
 
 - 🍞 All of my projects are available at **[https://github.com/igdev116](https://github.com/igdev116)**
 
