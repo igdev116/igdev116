@@ -10,7 +10,7 @@ A Frontend Web Developer love to build and share new things with others.
   <img src="https://img.shields.io/github/followers/igdev116">
 </p>
 
-### **My knowledges 📖**
+#### **My knowledges 📖**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -59,7 +59,5 @@ A Frontend Web Developer love to build and share new things with others.
   <a href="https://www.youtube.com/channel/UCtMA-IpVPoFIg1Psf5x1-fQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/hung1162/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
-
-#### **Snake eating my contribution graph 🧀**
 
 ![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
