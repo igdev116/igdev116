@@ -48,8 +48,10 @@ A Frontend Web Developer love to build and share new things with others.
 
 #### **Some of my Github Stats 🎓**
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=igdev116&show_icons=true&theme=react&icon_color=ffb300" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igdev116&layout=compact&theme=react&langs_count=6&" height="165">
+</p>
 
 #### **Connect with me ⚡**
 
