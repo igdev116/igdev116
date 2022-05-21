@@ -48,16 +48,13 @@ A Frontend Web Developer love to build and share new things with others.
 
 #### **Some of my Github Stats 🎓**
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=igdev116&show_icons=true&theme=react&icon_color=ffb300" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igdev116&layout=compact&theme=react&langs_count=6&" height="165">
-</p>
 
-<p align="center"><i>Connect with me ⚡</i></p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-minh-h%C6%B0ng-08ab9a1ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/channel/UCtMA-IpVPoFIg1Psf5x1-fQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/hung1162/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-</p>
+#### **Connect with me ⚡**
+
+<a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-minh-h%C6%B0ng-08ab9a1ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/channel/UCtMA-IpVPoFIg1Psf5x1-fQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/hung1162/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
