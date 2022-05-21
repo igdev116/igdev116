@@ -1,5 +1,5 @@
 <h1><strong>Hi there, I'm IG Dev</strong> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<h3>A Frontend Web Developer love to build and share new things with others.</h3>
+A Frontend Web Developer love to build and share new things with others.
 <br />
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 <br />
 
-### **Latest Projects 🚀**
+#### **Latest Projects 🚀**
 
 - [Instagram Noob](https://instagram-noob.herokuapp.com/)
 
@@ -48,7 +48,7 @@
 
 <br />
 
-### **Some of my Github Stats 🎓**
+#### **Some of my Github Stats 🎓**
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=igdev116&show_icons=true&theme=react&icon_color=ffb300" height="165">
