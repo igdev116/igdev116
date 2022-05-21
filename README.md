@@ -10,7 +10,7 @@ A Frontend Web Developer love to build and share new things with others.
   <img src="https://img.shields.io/github/followers/igdev116">
 </p>
 
-#### **My knowledges 📖**
+### **My knowledges 📖**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@ A Frontend Web Developer love to build and share new things with others.
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black.svg?style=flat-square&logo=socket.io&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-#### **Latest Projects 🚀**
+### **Latest Projects 🚀**
 
 - [Instagram Noob](https://instagram-noob.herokuapp.com/)
 
@@ -46,14 +46,14 @@ A Frontend Web Developer love to build and share new things with others.
 
 - [Purpose Lading Page](https://ig-purpose.web.app)
 
-#### **Some of my Github Stats 🎓**
+### **Some of my Github Stats 🎓**
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=igdev116&show_icons=true&theme=react&icon_color=ffb300" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igdev116&layout=compact&theme=react&langs_count=6&" height="165">
 </p>
 
-#### **Connect with me ⚡**
+### **Connect with me ⚡**
 
 <a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-minh-h%C6%B0ng-08ab9a1ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/channel/UCtMA-IpVPoFIg1Psf5x1-fQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
