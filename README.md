@@ -47,3 +47,5 @@
   <a href="https://www.youtube.com/channel/UCtMA-IpVPoFIg1Psf5x1-fQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/hung1162/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
+
+![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.gif)
