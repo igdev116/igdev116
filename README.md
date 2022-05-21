@@ -1,5 +1,6 @@
 <h1><strong>Hi there, I'm IG Dev</strong> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 A Frontend Web Developer love to build and share new things with others.
+
 <br />
 
 <p align="center">
@@ -30,8 +31,6 @@ A Frontend Web Developer love to build and share new things with others.
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black.svg?style=flat-square&logo=socket.io&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-<br />
-
 #### **Latest Projects 🚀**
 
 - [Instagram Noob](https://instagram-noob.herokuapp.com/)
@@ -46,8 +45,6 @@ A Frontend Web Developer love to build and share new things with others.
 
 - [Purpose Lading Page](https://ig-purpose.web.app)
 
-<br />
-
 #### **Some of my Github Stats 🎓**
 
 <p align="center">
@@ -61,8 +58,6 @@ A Frontend Web Developer love to build and share new things with others.
   <a href="https://www.youtube.com/channel/UCtMA-IpVPoFIg1Psf5x1-fQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/hung1162/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
-
-<br />
 
 #### **Snake eating my contribution graph 🧀**
 
