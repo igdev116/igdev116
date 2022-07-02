@@ -1,4 +1,4 @@
-<h1><strong>Hi there, I'm IG Dev</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<h1><strong>Hi there, I'm IG Dev</strong> 👋</a></h1>
 A Frontend Web Developer love to build and share new things with others.
 
 <br />
