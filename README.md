@@ -22,7 +22,7 @@ A Frontend Web Developer love to build and share new things with others.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.Js](https://img.shields.io/badge/Next,js-black?style=flat-square&logo=next.js&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
